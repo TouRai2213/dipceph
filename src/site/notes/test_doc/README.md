@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test_doc/README/"}
+{"dg-publish":true,"permalink":"/test_doc/README/","tags":["gardenEntry"]}
 ---
 
 # DIP Ceph テストドキュメント
@@ -103,6 +103,3 @@
   - [並び順](./patient_list.md#並び順)
   - [ページ切り替え](./patient_list.md#ページ切り替え)
   - [ラベル](./patient_list.md#ラベル) 
-
-- [x] dg-home
-- [x] dg-publish
